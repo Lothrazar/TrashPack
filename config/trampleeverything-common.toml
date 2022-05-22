@@ -1,0 +1,45 @@
+
+[General]
+	#If enabled, will drop blocks from a trampled block as if a player breaks it by hand.
+	_enableTrampledBlockItems = true
+	#If enabled, crouching/sneaking will prevent any block from being trampled.
+	_crouchingPreventsTrampling = true
+	#Whether snow should be trampled.
+	trampleSnow = true
+	#Whether bamboo saplings should be trampled.
+	trampleBambooSaplings = false
+	#Whether growable crops should be trampled.
+	trampleCrops = false
+	#Whether dead bushes should be trampled
+	trampleDeadBushes = true
+	#Whether double plants should be trampled, for example tall flowers.
+	trampleDoublePlants = false
+	#Whether flowers should be trampled.
+	trampleFlowers = false
+	#Whether nether mushrooms should be trampled.
+	trampleFungi = false
+	#Whether lily pads should be trampled.
+	trampleLilyPads = false
+	#Whether mushrooms should be trampled.
+	trampleMushrooms = false
+	#Whether nether roots should be trampled.
+	trampleNetherRoots = true
+	#Whether nether sprouts should be trampled.
+	trampleNetherSprouts = true
+	#Whether nether wart should be trampled.
+	trampleNetherWart = false
+	#Whether saplings should be trampled.
+	trampleSaplings = false
+	#Whether sea grass should be trampled.
+	trampleSeaGrass = false
+	#Whether sea pickles should be trampled.
+	trampleSeaPickles = false
+	#Whether stems should be trampled, such as pumpkin and melon stems.
+	trampleStems = false
+	#Whether sugar cane should be trampled.
+	trampleSugarCane = false
+	#Whether sweet berry bushes should be trampled.
+	trampleSweetBerryBushes = false
+	#Whether tall grass should be trampled.
+	trampleTallGrass = false
+
